@@ -8,7 +8,7 @@ function Display() {
                 <section className='display-image'>
                     <img src='/display/orange.png' alt='orange fruit'/>
                 </section>
-                <h4 className='shadows-into-light-two-regular heading'>Why choose <span className='highlight'>Pulppy</span></h4>
+                <h4 className='shadows-into-light-two-regular heading'>Why choose <span className='highlight'>Fresh Pulp</span></h4>
             </div>
             <div className='flex justify-content-sp-btw align-items-flex-start flex-column'>
                 <figure className='fruits-section'>
