@@ -17,13 +17,13 @@ function Display() {
                 <article className='fruits-article'>
                     <ul>
                         <li>Preservative Free</li>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit vero laudantium soluta ut, mollitia odit</p>
+                        <p>Preservative-free fruit juices that offer the pure, natural taste of freshly squeezed fruits without any artificial additives.</p>
                         <li>Freshly Squeezed</li>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit vero laudantium soluta ut, mollitia odit</p>
+                        <p>Freshly squeezed fruit juices that deliver the pure, natural essence of fruits, ensuring a deliciously refreshing experience.</p>
                         <li>No Added Sugar</li>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit vero laudantium soluta ut, mollitia odit</p>
+                        <p>No added sugar fruit juices that maintain the natural sweetness of fruits without any additional artificial sweeteners.</p>
                         <li>100% Healthy</li>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit vero laudantium soluta ut, mollitia odit</p>
+                        <p>100% healthy fruit juices, crafted to preserve the natural goodness of fruits without any additives.</p>
                     </ul>
                 </article>
             </div>

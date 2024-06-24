@@ -690,11 +690,11 @@ figure.snip1192 .author h5 span {
   font-weight: 600;
   font-size: 1.2rem;
 }
-.blog-section{
-  margin-top: 2rem;
-}
 .article-section h4{
   margin-top: 6rem;
+}
+.fruits-article li{
+  font-weight: 600;
 }
 /* media queries */
 

@@ -29,6 +29,7 @@ export default function Page() {
       </Head>
       <Navbar />
       <AllProducts/>
+      <Testimonials/>
       <BlogsSection/>
       <Footer/>
     </section>
