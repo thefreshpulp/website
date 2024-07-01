@@ -2,7 +2,7 @@ import React from 'react'
 
 function AllProducts() {
   return (
-    <section className='product-section'>
+    <section className='product-section all-product-section'>
         <div className='container'>
             <div className='flex justify-content-center'>
                 <h5 className='heading'>Menu</h5>

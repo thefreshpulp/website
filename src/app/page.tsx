@@ -11,6 +11,7 @@ import Testimonials from "./Testimonials";
 import Blogs from "./Blogs/page";
 import Footer from "./Footer";
 import BlogsSection from "./BlogsSection";
+import SubscriptionTrivis from "./SubscriptionTrice";
 
 export const metadata = {
   title: 'FRESH PULP',
@@ -30,6 +31,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Description/>
+      <SubscriptionTrivis/>
       <Products/>
       <Display/>
       <Testimonials/>

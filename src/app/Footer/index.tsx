@@ -1,7 +1,10 @@
+'use client'
 import Link from "next/link";
 import React from "react";
+import { usePathname } from 'next/navigation';
 
 function Footer() {
+  const pathname = usePathname()
   return (
     <section className="footer-section">
       <div className="container">
@@ -36,14 +39,22 @@ function Footer() {
           <div className="footer-sub-section">
             <nav>
               <ul>
-                <li className="bold">FRESH PULP COMPANY</li>
-                <li>
+                <li className={pathname == "/" ? "active" : ""}>
                   <Link href='/' >Home</Link>
                 </li>
-                <li>
-                  <Link href='/Juices' >Menu</Link>
+                <li className={pathname == "/Cold-pressed" ? "active" : ""}>
+                  <Link href='/Cold-pressed' >Cold-pressed</Link>
                 </li>
-                <li>
+                <li className={pathname == "/Juices" ? "active" : ""}>
+                  <Link href='/Juices' >Juices</Link>
+                </li>
+                <li className={pathname == "/Snacks" ? "active" : ""}>
+                  <Link href='/Snacks' >Snacks</Link>
+                </li>
+                <li className={pathname == "/Stores" ? "active" : ""}>
+                  <Link href='/Stores' >Our Outlets</Link>
+                </li>
+                <li className={pathname == "/Blogs" ? "active" : ""}>
                   <Link href='/Blogs' >Blogs</Link>
                 </li>
               </ul>

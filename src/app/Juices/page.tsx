@@ -4,12 +4,11 @@ import Navbar from '../Navbar';
 import Hero from "../Hero";
 import Head from "next/head";
 import Description from "../Description/Description";
-import Products from "../Products";
+import Products from "./products";
 import Display from "../Display";
 import Testimonials from "../Testimonials";
 import Blogs from "../Blogs/page";
 import Footer from "../Footer";
-import AllProducts from "../AllProducts";
 import BlogsSection from "../BlogsSection";
 
 export const metadata = {
@@ -28,7 +27,7 @@ export default function Page() {
         <link rel="shortcut icon" href="/logo.ico" />
       </Head>
       <Navbar />
-      <AllProducts/>
+      <Products/>
       <Testimonials/>
       <BlogsSection/>
       <Footer/>
