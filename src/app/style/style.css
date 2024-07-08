@@ -816,6 +816,12 @@ figure.snip1192 .author h5 span {
   margin-top: 1rem;
   cursor: pointer;
 }
+.subscription-article{
+  padding: 2rem;
+}
+.flex-wrap{
+  flex-wrap: wrap
+}
 /* media queries */
 
 @media screen and (max-width:1200px){

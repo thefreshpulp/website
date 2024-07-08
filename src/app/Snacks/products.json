@@ -1,0 +1,162 @@
+[
+  {
+    "Title": "Chicken Chilli And Garlic Momos",
+    "Food Type": "Non Veg",
+    "Category": "Momos - In House Prepared By Expert Chefs",
+    "Description": "6 Pieces -Prepared In-house health momos, served with schezwan chutney and veg egg-less mayonnaise.\nWhat we do different:\n1. We use refined oil (palm use is used in market).\n2. These are handmade and freshly made. Every big and most small brands use deep-frozen momos, having a validity of 12-18 months.\n3. We use different pans and oil for veg and non-veg.",
+    "normal_price": 159,
+    "img_link": "CHICKEN CRISPY&CRUNCHY MOMOS.jpg"
+  },
+  {
+    "Title": "Chicken Nuggets - 8 Pieces",
+    "Food Type": "Non Veg",
+    "Category": "Quick Bites",
+    "Description": "8 Pieces\nDeliciously crispy and flavorful, our expertly prepared chicken nuggets are the perfect snack for any occasion.",
+    "normal_price": 129,
+    "img_link": "CHICKEN NUGGETS-8 PIECES.jpg"
+  },
+  {
+    "Title": "Crispy Chicken Fries - 8 Pieces",
+    "Food Type": "Non Veg",
+    "Category": "Quick Bites",
+    "Description": "8 Pieces\nDelight in our expertly prepared, golden-brown chicken fries, offering a satisfying crunch in every bite.",
+    "normal_price": 129,
+    "img_link": "CRISPY CHICKEN FRIES-8 PIECES.jpg"
+  },
+  {
+    "Title": "Chicken Popcorn 10-Pieces",
+    "Food Type": "Non Veg",
+    "Category": "Quick Bites",
+    "Description": "10 Pieces\nDelight in the irresistible crunch of our flavorful, expertly crafted chicken bites perfect for snacking or as a delectable appetizer.",
+    "normal_price": 109,
+    "img_link": "CHICKEN POPCORN 10- PIECES.jpg"
+  },
+  {
+    "Title": "Veg Fingers 6-Pieces",
+    "Food Type": "Veg",
+    "Category": "Quick Bites",
+    "Description": "6 Pieces\nCrispy and flavorful, these savory bites will satisfy your cravings for a quick and delightful vegetarian snack.",
+    "normal_price": 119,
+    "img_link": "VEG FINGERS 6-PIECES.jpg"
+  },
+  {
+    "Title": "Veg Nuggets 8-Pieces",
+    "Food Type": "Veg",
+    "Category": "Quick Bites",
+    "Description": "8 Pieces\nCrispy and flavorful bites bursting with vegetable goodness.",
+    "normal_price": 119,
+    "img_link": "CHICKEN NUGGETS-8 PIECES.jpg"
+  },
+  {
+    "Title": "Peri Peri French Fries",
+    "Food Type": "Veg",
+    "Category": "Quick Bites",
+    "Description": "Crispy French fries with a flavorful twist, guaranteed to satisfy your snack cravings.",
+    "normal_price": 119,
+    "img_link": "VEG NUGGETS 8-PIECES.jpg"
+  },
+  {
+    "Title": "French Fries",
+    "Food Type": "Veg",
+    "Category": "Quick Bites",
+    "Description": "Crispy and golden-brown, this classic favorite is the perfect quick bite for potato lovers.",
+    "normal_price": 99,
+    "img_link": "FRENCH FRIES.jpg"
+  },
+  {
+    "Title": "Momos Platter",
+    "Food Type": "Veg",
+    "Category": "Momos - In House Prepared By Expert Chefs",
+    "Description": "8 Pieces of Different types of Veg Momos: 2 veg steamed, 2 veg fried, 2 paneer steamed, 2 paneer fried",
+    "normal_price": 175,
+    "img_link": "MOMOS PLATTER.jpg"
+  },
+  {
+    "Title": "Chicken Crispy And Crunchy Momos",
+    "Food Type": "Non Veg",
+    "Category": "Momos - In House Prepared By Expert Chefs",
+    "Description": "6 pieces of kurkure crispy fried momos, served with schezwan chutney and veg mayonnaise.\nWhat we do different:\n1. We use refined oil (palm use is used in market).\n2. These are handmade and freshly made. Every big and most small brands use deep-frozen momos, having a validity of 12-18 months.\n3. We use different pans and oil for veg and non-veg.",
+    "normal_price": 165,
+    "img_link": "CHICKEN CRISPY&CRUNCHY MOMOS.jpg"
+  },
+  {
+    "Title": "Chicken Fried Momos",
+    "Food Type": "Non Veg",
+    "Category": "Momos - In House Prepared By Expert Chefs",
+    "Description": "6 Pieces -Prepared In-house health momos, served with schezwan chutney and veg egg-less mayonnaise.\nWhat we do different:\n1. We use refined oil (palm use is used in market).\n2. These are handmade and freshly made. Every big and most small brands use deep-frozen momos, having a validity of 12-18 months.\n3. We use different pans and oil for veg and non-veg.",
+    "normal_price": 155,
+    "img_link": "CHICKEN FRIED MOMOS.jpg"
+  },
+  {
+    "Title": "Chicken Steamed Momos",
+    "Food Type": "Non Veg",
+    "Category": "Momos - In House Prepared By Expert Chefs",
+    "Description": "6 Pieces -Prepared In-house health momos, served with schezwan chutney and veg egg-less mayonnaise.\nWhat we do different:\n1. We use refined oil (palm use is used in market).\n2. These are handmade and freshly made. Every big and most small brands use deep-frozen momos, having a validity of 12-18 months.\n3. We use different pans and oil for veg and non-veg.",
+    "normal_price": 135,
+    "img_link": "CHICKEN STEAMED MOMOS.jpg"
+  },
+  {
+    "Title": "Paneer Chilli And Garlic Momos",
+    "Food Type": "Veg",
+    "Category": "Momos - In House Prepared By Expert Chefs",
+    "Description": "6 pieces\nWhat we do different:\n1. We use refined oil (palm use is used in market).\n2. These are handmade and freshly made. Every big and most small brands use deep-frozen momos, having a validity of 12-18 months.\n3. We use different pans and oil for veg and non-veg.",
+    "normal_price": 179,
+    "img_link": "PANEER CRISPY&CRUNCHY MOMOS.jpg"
+  },
+  {
+    "Title": "Paneer Crispy And Crunchy Momos",
+    "Food Type": "Veg",
+    "Category": "Momos - In House Prepared By Expert Chefs",
+    "Description": "",
+    "normal_price": 165,
+    "img_link": "PANEER CRISPY&CRUNCHY MOMOS.jpg"
+  },
+  {
+    "Title": "Paneer Fried Momos",
+    "Food Type": "Veg",
+    "Category": "Momos - In House Prepared By Expert Chefs",
+    "Description": "",
+    "normal_price": 145,
+    "img_link": "PANEER FRIED MOMOS.jpg"
+  },
+  {
+    "Title": "Paneer Steamed Momos",
+    "Food Type": "Veg",
+    "Category": "Momos - In House Prepared By Expert Chefs",
+    "Description": "6 pc of paneer momos, served with schezwan chutney and veg mayonnaise.",
+    "normal_price": 135,
+    "img_link": "PANNER STEAMED MOMOS.jpg"
+  },
+  {
+    "Title": "Mix Veg Chilli And Garlic Momos",
+    "Food Type": "Veg",
+    "Category": "Momos - In House Prepared By Expert Chefs",
+    "Description": "6 Pieces -Prepared In-house health momos, served with schezwan chutney and veg egg-less mayonnaise.\nWhat we do different:\n1. We use refined oil (palm use is used in market).\n2. These are handmade and freshly made. Every big and most small brands use deep-frozen momos, having a validity of 12-18 months.\n3. We use different pans and oil for veg and non-veg.",
+    "normal_price": 169,
+    "img_link": "MIX VEG STEAMED MOMOS.jpg"
+  },
+  {
+    "Title": "Mix Veg Crispy And Crunchy Momos",
+    "Food Type": "Veg",
+    "Category": "Momos - In House Prepared By Expert Chefs",
+    "Description": "6 Pieces -Prepared In-house health momos, served with schezwan chutney and veg egg-less mayonnaise.\nWhat we do different:\n1. We use refined oil (palm use is used in market).\n2. These are handmade and freshly made. Every big and most small brands use deep-frozen momos, having a validity of 12-18 months.\n3. We use different pans and oil for veg and non-veg.",
+    "normal_price": 155,
+    "img_link": "MIX VEG CRISPY  AND CRUNCHY MOMOS.jpg"
+  },
+  {
+    "Title": "Mix Veg Fried Momos",
+    "Food Type": "Veg",
+    "Category": "Momos - In House Prepared By Expert Chefs",
+    "Description": "6 Pieces -Prepared In-house health momos, served with schezwan chutney and veg egg-less mayonnaise.\nWhat we do different:\n1. We use refined oil (palm use is used in market).\n2. These are handmade and freshly made. Every big and most small brands use deep-frozen momos, having a validity of 12-18 months.\n3. We use different pans and oil for veg and non-veg.",
+    "normal_price": 135,
+    "img_link": "MIX VEG FRIED MOMOS.jpg"
+  },
+  {
+    "Title": "Mix Veg Steamed Momos",
+    "Food Type": "Veg",
+    "Category": "Momos - In House Prepared By Expert Chefs",
+    "Description": "6 pieces mixed steamed momos, served with schezwan chutney and veg mayonnaise.\nWhat we do different:\n1. We use refined oil (palm use is used in market).\n2. These are handmade and freshly made. Every big and most small brands use deep-frozen momos, having a validity of 12-18 months.\n3. We use different pans and oil for veg and non-veg.",
+    "normal_price": 125,
+    "img_link": "MIX VEG STEAMED MOMOS.jpg"
+  }
+]

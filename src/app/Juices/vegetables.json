@@ -1,0 +1,42 @@
+[
+  {
+    "Title": "ABC Juice",
+    "Food Type": "Veg",
+    "Category": "Vegetable Juices",
+    "Description": "Apple, beetroot, carrot",
+    "normal_price": 135,
+    "subscription_price": 105
+  },
+  {
+    "Title": "Beet Carrot Juice",
+    "Food Type": "Veg",
+    "Category": "Vegetable Juices",
+    "Description": "No Sugar, No ICE!!. Please add comment while placing order for special requirement.",
+    "normal_price": 120,
+    "subscription_price": 105
+  },
+  {
+    "Title": "Carrot Juice",
+    "Food Type": "Veg",
+    "Category": "Vegetable Juices",
+    "Description": "No Sugar, No ICE!!. Please add comment while placing order for special requirement.",
+    "normal_price": 105,
+    "subscription_price": 85
+  },
+  {
+    "Title": "Ash Gourd Juice",
+    "Food Type": "Veg",
+    "Category": "Vegetable Juices",
+    "Description": "No Sugar, No ICE!!. Please add comment while placing order for special requirement.",
+    "normal_price": 115,
+    "subscription_price": 95
+  },
+  {
+    "Title": "Beetroot Juice",
+    "Food Type": "Veg",
+    "Category": "Vegetable Juices",
+    "Description": "No Sugar, No ICE!!. Please add comment while placing order for special requirement.",
+    "normal_price": 105,
+    "subscription_price": 85
+  }
+]

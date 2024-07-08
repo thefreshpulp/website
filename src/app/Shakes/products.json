@@ -1,0 +1,304 @@
+[
+  {
+    "Title": "Blue Lagoon",
+    "Food Type": "Veg",
+    "Category": "Mocktails",
+    "Description": "",
+    "normal_price": 99
+  },
+  {
+    "Title": "Fresh Lime Soda",
+    "Food Type": "Veg",
+    "Category": "Mocktails",
+    "Description": "Iced soda flavoured in mint and lime.",
+    "normal_price": 69
+  },
+  {
+    "Title": "Mint Mojito",
+    "Food Type": "Veg",
+    "Category": "Mocktails",
+    "Description": "",
+    "normal_price": 99
+  },
+  {
+    "Title": "Flirty Granade",
+    "Food Type": "Veg",
+    "Category": "Mocktails",
+    "Description": "This spin on the mint-and-lime classic contains delicious pomegranate blend.",
+    "normal_price": 119
+  },
+  {
+    "Title": "Passion Fruit",
+    "Food Type": "Veg",
+    "Category": "Mocktails",
+    "Description": "",
+    "normal_price": 99
+  },
+  {
+    "Title": "Green Mint",
+    "Food Type": "Veg",
+    "Category": "Mocktails",
+    "Description": "",
+    "normal_price": 99
+  },
+  {
+    "Title": "Green Apple",
+    "Food Type": "Veg",
+    "Category": "Mocktails",
+    "Description": "",
+    "normal_price": 99
+  },
+  {
+    "Title": "Custard Apple Milkshake",
+    "Food Type": "Veg",
+    "Category": "Fruit Milkshakes",
+    "Description": "",
+    "normal_price": 129
+  },
+  {
+    "Title": "Apple Milkshake",
+    "Food Type": "Veg",
+    "Category": "Fruit Milkshakes",
+    "Description": "",
+    "normal_price": 139
+  },
+  {
+    "Title": "Oreo Banana Milkshake",
+    "Food Type": "Veg",
+    "Category": "Fruit Milkshakes",
+    "Description": "",
+    "normal_price": 119
+  },
+  {
+    "Title": "Dragon Fruit Milkshake",
+    "Food Type": "Veg",
+    "Category": "Fruit Milkshakes",
+    "Description": "",
+    "normal_price": 149
+  },
+  {
+    "Title": "Banana Milkshake",
+    "Food Type": "Veg",
+    "Category": "Fruit Milkshakes",
+    "Description": "",
+    "normal_price": 99
+  },
+  {
+    "Title": "Kiwi Milkshake",
+    "Food Type": "Veg",
+    "Category": "Fruit Milkshakes",
+    "Description": "",
+    "normal_price": 139
+  },
+  {
+    "Title": "Muskmelon Milkshake",
+    "Food Type": "Veg",
+    "Category": "Fruit Milkshakes",
+    "Description": "",
+    "normal_price": 109
+  },
+  {
+    "Title": "Papaya Milkshake",
+    "Food Type": "Veg",
+    "Category": "Fruit Milkshakes",
+    "Description": "",
+    "normal_price": 109
+  },
+  {
+    "Title": "Sapota Milkshake",
+    "Food Type": "Veg",
+    "Category": "Fruit Milkshakes",
+    "Description": "",
+    "normal_price": 109
+  },
+  {
+    "Title": "Mango Milkshake",
+    "Food Type": "Veg",
+    "Category": "Fruit Milkshakes",
+    "Description": "",
+    "normal_price": 109
+  },
+  {
+    "Title": "Strawberry Milkshake",
+    "Food Type": "Veg",
+    "Category": "Fruit Milkshakes",
+    "Description": "",
+    "normal_price": 129
+  },
+  {
+    "Title": "Avocado Milkshake",
+    "Food Type": "Veg",
+    "Category": "Fruit Milkshakes",
+    "Description": "",
+    "normal_price": 149
+  },
+  {
+    "Title": "Blueberry Milkshake",
+    "Food Type": "Veg",
+    "Category": "Fruit Milkshakes",
+    "Description": "",
+    "normal_price": 129
+  },
+  {
+    "Title": "Rose Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 139
+  },
+  {
+    "Title": "Dryfruit Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 179
+  },
+  {
+    "Title": "Butterscotch Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 139
+  },
+  {
+    "Title": "Pista Badam Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 169
+  },
+  {
+    "Title": "Badam Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 169
+  },
+  {
+    "Title": "Chocolate Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 159
+  },
+  {
+    "Title": "Vanilla Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 159
+  },
+  {
+    "Title": "Oreo Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 169
+  },
+  {
+    "Title": "Dry Fruit Lassi",
+    "Food Type": "Veg",
+    "Category": "Lassi",
+    "Description": "Indulge in a delectable blend of creamy goodness and the natural sweetness of dried fruits with this mouthwatering Lassi.",
+    "normal_price": 119
+  },
+  {
+    "Title": "Mango Lassi",
+    "Food Type": "Veg",
+    "Category": "Lassi",
+    "Description": "A refreshing and creamy blend of mango, perfect for a hot summer day.",
+    "normal_price": 99
+  },
+  {
+    "Title": "Rose Lassi",
+    "Food Type": "Veg",
+    "Category": "Lassi",
+    "Description": "Refreshing and fragrant, this velvety lassi combines luscious rose flavors with a smooth blend of ingredients for a delightful vegetarian treat.",
+    "normal_price": 89
+  },
+  {
+    "Title": "Strawberry Lassi",
+    "Food Type": "Veg",
+    "Category": "Lassi",
+    "Description": "A delightful and refreshing blend of strawberries, this lassi is a perfect treat for all strawberry lovers.",
+    "normal_price": 99
+  },
+  {
+    "Title": "Honey Lassi",
+    "Food Type": "Veg",
+    "Category": "Lassi",
+    "Description": "Refreshing and sweet, this creamy honey lassi is a delightful treat that will transport your taste buds to pure bliss.",
+    "normal_price": 99
+  },
+  {
+    "Title": "Sweet Lassi",
+    "Food Type": "Veg",
+    "Category": "Lassi",
+    "Description": "A refreshing and creamy Indian beverage that offers a perfect balance of sweetness and tanginess, ideal for a delightful treat.",
+    "normal_price": 69
+  },
+  {
+    "Title": "Rose Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 139,
+    "subscription_price": null
+  },
+  {
+    "Title": "Dryfruit Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 179,
+    "subscription_price": null
+  },
+  {
+    "Title": "Butterscotch Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 139,
+    "subscription_price": null
+  },
+  {
+    "Title": "Pista Badam Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 169,
+    "subscription_price": null
+  },
+  {
+    "Title": "Badam Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 169,
+    "subscription_price": null
+  },
+  {
+    "Title": "Chocolate Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 159,
+    "subscription_price": null
+  },
+  {
+    "Title": "Vanilla Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 159,
+    "subscription_price": null
+  },
+  {
+    "Title": "Oreo Milkshake",
+    "Food Type": "Veg",
+    "Category": "Ice Cream Shakes",
+    "Description": "",
+    "normal_price": 169,
+    "subscription_price": null
+  }
+]

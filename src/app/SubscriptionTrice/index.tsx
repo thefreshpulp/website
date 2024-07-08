@@ -8,6 +8,13 @@ function SubscriptionTrice() {
         <div className="flex justify-content-center">
           <h4 className="heading">Subscription</h4>
         </div>
+        <div className='subscription-section-figure'>
+          <Link href='https://trice.link/HCBJcgZgK2rbc6NG6'>  
+            <figure className='subscription-figure'>
+              <img src='/partners/trice.webp' alt='trice'/>
+            </figure>
+          </Link>
+        </div>
         <article className='subscription-article'>
           <h5>Enjoy 25% Off on All Our Juices!</h5>
           <p>
@@ -15,13 +22,6 @@ function SubscriptionTrice() {
             all-natural juices. Don’t miss out on this juicy offer—subscribe today
             and savor the flavors while saving big!
           </p>
-          <div className='subscription-section-figure'>
-            <Link href='https://trice.link/HCBJcgZgK2rbc6NG6'>  
-              <figure className='subscription-figure'>
-                <img src='/partners/trice.webp' alt='trice'/>
-              </figure>
-            </Link>
-          </div>
           <Link href='https://trice.link/HCBJcgZgK2rbc6NG6'>
             <button>Subscribe</button>
           </Link>

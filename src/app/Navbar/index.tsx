@@ -33,6 +33,9 @@ function Navbar() {
               <li className={pathname == "/Snacks" ? "active" : ""}>
                 <Link href='/Snacks' >Snacks</Link>
               </li>
+              <li className={pathname == "/Shakes" ? "active" : ""}>
+                <Link href='/Shakes' >Shakes</Link>
+              </li>
               <li className={pathname == "/Stores" ? "active" : ""}>
                 <Link href='/Stores' >Our Outlets</Link>
               </li>
