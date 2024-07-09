@@ -5,7 +5,8 @@
     "Category": "Vegetable Juices",
     "Description": "Apple, beetroot, carrot",
     "normal_price": 135,
-    "subscription_price": 105
+    "subscription_price": 105,
+    "img_link": "pomagranate.jpg"
   },
   {
     "Title": "Beet Carrot Juice",
@@ -13,7 +14,8 @@
     "Category": "Vegetable Juices",
     "Description": "No Sugar, No ICE!!. Please add comment while placing order for special requirement.",
     "normal_price": 120,
-    "subscription_price": 105
+    "subscription_price": 105,
+    "img_link": "beetRoot.jpg"
   },
   {
     "Title": "Carrot Juice",
@@ -21,7 +23,8 @@
     "Category": "Vegetable Juices",
     "Description": "No Sugar, No ICE!!. Please add comment while placing order for special requirement.",
     "normal_price": 105,
-    "subscription_price": 85
+    "subscription_price": 85,
+    "img_link": "carrot.jpg"
   },
   {
     "Title": "Ash Gourd Juice",
@@ -29,7 +32,8 @@
     "Category": "Vegetable Juices",
     "Description": "No Sugar, No ICE!!. Please add comment while placing order for special requirement.",
     "normal_price": 115,
-    "subscription_price": 95
+    "subscription_price": 95,
+    "img_link": "avacado.jpg"
   },
   {
     "Title": "Beetroot Juice",
@@ -37,6 +41,7 @@
     "Category": "Vegetable Juices",
     "Description": "No Sugar, No ICE!!. Please add comment while placing order for special requirement.",
     "normal_price": 105,
-    "subscription_price": 85
+    "subscription_price": 85,
+    "img_link": "beetRoot.jpg"
   }
 ]

@@ -24,7 +24,7 @@
       "Description": "Freshly prepared Orange juice, No Ice, No added preservatives !! Please add comment while ordering for any requests like Sugar, need chilled etc.",
       "normal_price": 85,
       "subscription_price": 65,
-      "img_link": "apple.jpg"
+      "img_link": "carrot.jpg"
     },
     {
       "Title": "Watermelon Fruit Juice",
@@ -32,7 +32,8 @@
       "Category": "Fruit Juices",
       "Description": "Freshly prepared Water-Melon juice, No Ice, No added preservatives !! Please add comment while ordering for any requests like Sugar, need chilled etc.",
       "normal_price": 85,
-      "subscription_price": 65
+      "subscription_price": 65,
+      "img_link": "waterMelon.jpg"
     },
     {
       "Title": "Pineapple Fruit Juice",
@@ -40,7 +41,8 @@
       "Category": "Fruit Juices",
       "Description": "Freshly prepared Pineapple juice, No Ice, No added preservatives !! Please add comment while ordering for any requests like Sugar, need chilled etc.",
       "normal_price": 95,
-      "subscription_price": 75
+      "subscription_price": 75,
+      "img_link": "pineapple.jpg"
     },
     {
       "Title": "Papaya Fruit Juice",
@@ -48,7 +50,8 @@
       "Category": "Fruit Juices",
       "Description": "Freshly prepared Papaya juice, No Ice, No added preservatives !! Please add comment while ordering for any requests like Sugar, need chilled etc.",
       "normal_price": 85,
-      "subscription_price": 65
+      "subscription_price": 65,
+      "img_link": "papayya.jpg"
     },
     {
       "Title": "Muskmelon Fruit Juice",
@@ -56,7 +59,8 @@
       "Category": "Fruit Juices",
       "Description": "Freshly prepared MuskMelon juice, No Ice, No added preservatives !! Please add comment while ordering for any requests like Sugar, need chilled etc.",
       "normal_price": 85,
-      "subscription_price": 65
+      "subscription_price": 65,
+      "img_link": "muskMelon.jpg"
     },
     {
       "Title": "Grapes Fruit Juice",
@@ -64,7 +68,8 @@
       "Category": "Fruit Juices",
       "Description": "Freshly prepared Black Grapes juice, No Ice, No added preservatives !! Please add comment while ordering for any requests like Sugar, need chilled etc.",
       "normal_price": 95,
-      "subscription_price": 75
+      "subscription_price": 75,
+      "img_link": "grape.jpg"
     },
     {
       "Title": "Pomegranate Fruit Juice",
@@ -72,7 +77,8 @@
       "Category": "Fruit Juices",
       "Description": "Freshly prepared Pomegranate juice, No Ice, No added preservatives !! Please add comment while ordering for any requests like Sugar, need chilled etc.",
       "normal_price": 105,
-      "subscription_price": 85
+      "subscription_price": 85,
+      "img_link": "pomagranate.jpg"
     },
     {
       "Title": "Mix Fruits Juice",
@@ -80,7 +86,8 @@
       "Category": "Fruit Juices",
       "Description": "Freshly prepared Mixed juice, No Ice, No added preservatives !! Please add comment while ordering for any requests like if any specific combo you need",
       "normal_price": 105,
-      "subscription_price": 95
+      "subscription_price": 95,
+      "img_link": "pomagranate.jpg"
     },
     {
       "Title": "Mixed Fruit Bowl 500 Ml",
@@ -88,7 +95,8 @@
       "Category": "Fruit Bowls",
       "Description": "",
       "normal_price": 125,
-      "subscription_price": 105
+      "subscription_price": 105,
+      "img_link": "MIXED FRUIT BOWL 500 ML.jpg"
     },
     {
       "Title": "Nutritious Dry & Fresh Mixed Fruit Bowl 500 Ml",
@@ -96,23 +104,8 @@
       "Category": "Fruit Bowls",
       "Description": "A mix of health Dry Fruits & Fresh Fruits",
       "normal_price": 175,
-      "subscription_price": 165
-    },
-    {
-      "Title": "Plain Sugarcane Juice 500 ML",
-      "Food Type": "Veg",
-      "Category": "Sugarcane Specials",
-      "Description": "Plain sugarcane Juice. No added Ice. Lemon, Aadrak, Mint can be added on request.",
-      "normal_price": 85,
-      "subscription_price": 69
-    },
-    {
-      "Title": "Plain Sugarcane Juice 1 LT",
-      "Food Type": "Veg",
-      "Category": "Sugarcane Specials",
-      "Description": "No added Ice. Lemon, Aadrak, Mint can be added on request.",
-      "normal_price": 129,
-      "subscription_price": 109
+      "subscription_price": 165,
+      "img_link": "NUTRITIOUS DRY & FRESH MIXED FRUIT BOWL 500 ML.jpg"
     },
     {
       "Title": "Mixed Fruit Bowl 350 ml",
@@ -120,7 +113,8 @@
       "Category": "Fruit Bowls",
       "Description": "350 ML with 5-6 Diff Fruits",
       "normal_price": 119,
-      "subscription_price": 99
+      "subscription_price": 99,
+      "img_link": "MIX FRUIT BOWL 350  ML.jpg"
     },
     {
       "Title": "Custard Fruit Bowl",
@@ -128,7 +122,26 @@
       "Category": "Fruit Bowls",
       "Description": "",
       "normal_price": 119,
-      "subscription_price": 99
-    }  
+      "subscription_price": 99,
+      "img_link": "MIX FRUIT BOWL 350  ML.jpg"
+    },
+    {
+      "Title": "Plain Sugarcane Juice 500 ML",
+      "Food Type": "Veg",
+      "Category": "Sugarcane Specials",
+      "Description": "Plain sugarcane Juice. No added Ice. Lemon, Aadrak, Mint can be added on request.",
+      "normal_price": 85,
+      "subscription_price": 69,
+      "img_link": "SUGARCANE [300 ML]WITH GINGER.jpg"
+    },
+    {
+      "Title": "Plain Sugarcane Juice 1 LT",
+      "Food Type": "Veg",
+      "Category": "Sugarcane Specials",
+      "Description": "No added Ice. Lemon, Aadrak, Mint can be added on request.",
+      "normal_price": 129,
+      "subscription_price": 109,
+      "img_link": "SUGARCANE [300 ML]WITH GINGER.jpg"
+    } 
   ]
   

@@ -5,7 +5,8 @@
     "Category": "Cold Pressed Vegetable Juices 300 Ml",
     "Description": "Freshly made Cold pressed Beet Root Juice to Get Slowing Skin among other health benefits.",
     "normal_price": 165,
-    "subscription_price": 135
+    "subscription_price": 135,
+    "img_link": "beetRoot.jpg"
   },
   {
     "Title": "ABC Cold Pressed Juice",
@@ -13,7 +14,8 @@
     "Category": "Cold Pressed Vegetable Juices 300 Ml",
     "Description": "A combination of Apple-Beetroot-Carrot is Refreshing and nutritious, this invigorating cold pressed juice is bursting with vibrant flavors to awaken your senses.",
     "normal_price": 185,
-    "subscription_price": 155
+    "subscription_price": 155,
+    "img_link": "pomagranate.jpg"
   },
   {
     "Title": "Carrot Cold Pressed Juice",
@@ -21,15 +23,17 @@
     "Category": "Cold Pressed Vegetable Juices 300 Ml",
     "Description": "Cold Pressed Carrot juice is incredibly rich in Vitamin A",
     "normal_price": 155,
-    "subscription_price": 135
+    "subscription_price": 135,
+    "img_link": "carrot.jpg"
   },
   {
-    "Title": "Wheet Grass Cold Pressed Juice 100 ml",
+    "Title": "Wheat Grass Cold Pressed Juice 100 ml",
     "Food Type": "Veg",
     "Category": "Cold Pressed Vegetable Juices 300 Ml",
     "Description": "A cold Pressed Wheatgrass is a superfood packed with nutrients and antioxidants",
     "normal_price": 119,
-    "subscription_price": 99
+    "subscription_price": 99,
+    "img_link": "avacado.jpg"
   },
   {
     "Title": "Carrot-Beetroot Cold Pressed Juice",
@@ -37,7 +41,8 @@
     "Category": "Cold Pressed Vegetable Juices 300 Ml",
     "Description": "Beetroots are the most popular way to improve blood hemoglobin levels & carrots, on the other hand, protect eyesight & tighten your skin.",
     "normal_price": 165,
-    "subscription_price": 135
+    "subscription_price": 135,
+    "img_link": "carrot.jpg"
   },
   {
     "Title": "Ash Groud Cold Press Juice",
@@ -45,6 +50,7 @@
     "Category": "Cold Pressed Vegetable Juices 300 Ml",
     "Description": "",
     "normal_price": 155,
-    "subscription_price": 135
+    "subscription_price": 135,
+    "img_link": "avacado.jpg"
   }  
 ]

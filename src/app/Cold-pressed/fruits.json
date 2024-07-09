@@ -5,7 +5,8 @@
     "Category": "Cold Pressed Fruit Juices 300 Ml",
     "Description": "",
     "normal_price": 175,
-    "subscription_price": 145
+    "subscription_price": 145,
+    "img_link": "apple.jpg"
   },
   {
     "Title": "Orange Cold Pressed Juice",
@@ -13,7 +14,8 @@
     "Category": "Cold Pressed Fruit Juices 300 Ml",
     "Description": "100% natural cold-pressed Orange juice. No Sugar, No Ice",
     "normal_price": 135,
-    "subscription_price": 105
+    "subscription_price": 105,
+    "img_link": "carrot.jpg"
   },
   {
     "Title": "Mausambi Cold Pressed Juice",
@@ -21,7 +23,8 @@
     "Category": "Cold Pressed Fruit Juices 300 Ml",
     "Description": "100% natural cold-pressed Masuambi juice. No Sugar, No Ice",
     "normal_price": 135,
-    "subscription_price": 105
+    "subscription_price": 105,
+    "img_link": "massombi.jpg"
   },
   {
     "Title": "Water-Melon Cold Pressed Juice",
@@ -29,7 +32,8 @@
     "Category": "Cold Pressed Fruit Juices 300 Ml",
     "Description": "Freshly cold-pressed watermelon juice is the best way to quickly & thoroughly hydrate yourself for the entire day",
     "normal_price": 125,
-    "subscription_price": 105
+    "subscription_price": 105,
+    "img_link": "waterMelon.jpg"
   },
   {
     "Title": "Pineapple Cold Pressed Juice",
@@ -37,7 +41,8 @@
     "Category": "Cold Pressed Fruit Juices 300 Ml",
     "Description": "Fresh Cold Pressed Pineapples for rich vitamin C Intake. No added sugar.",
     "normal_price": 145,
-    "subscription_price": 120
+    "subscription_price": 120,
+    "img_link": "pineapple.jpg"
   },
   {
     "Title": "Grapes Cold Pressed Juice",
@@ -45,7 +50,8 @@
     "Category": "Cold Pressed Fruit Juices 300 Ml",
     "Description": "Cold Pressed Grape juice is loaded with important nutrients, including vitamin C, manganese, and antioxidants. No added sugar.",
     "normal_price": 165,
-    "subscription_price": 135
+    "subscription_price": 135,
+    "img_link": "grape.jpg"
   },
   {
     "Title": "Pomegranate Cold Press Juice",
@@ -53,6 +59,7 @@
     "Category": "Cold Pressed Fruit Juices 300 Ml",
     "Description": "Cold Pressed Pomegranate juice performs a very important function of warding off premature aging",
     "normal_price": 245,
-    "subscription_price": 225
+    "subscription_price": 225,
+    "img_link": "pomagranate.jpg"
   }
 ]

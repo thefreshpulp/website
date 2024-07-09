@@ -16,7 +16,7 @@ function Products() {
                     fruits.map(item => (
                         <section className='mt-2'>
                             <figure>
-                                <img src='/products/apple.jpg' alt='apple juice'/>
+                                <img src={`/products/${item.img_link}`} alt={`${item.img_link}`}/>
                             </figure>
                             <div className='flex align-items-center prices'>
                                 <h6>Normal Price:</h6>
@@ -41,7 +41,7 @@ function Products() {
                     vegetables.map(item => (
                         <section className='mt-2'>
                             <figure>
-                                <img src='/products/apple.jpg' alt='apple juice'/>
+                                <img src={`/products/${item.img_link}`} alt={`${item.img_link}`}/>
                             </figure>
                             <div className='flex align-items-center prices'>
                                 <h6>Normal Price:</h6>

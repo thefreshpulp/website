@@ -14,7 +14,7 @@ function Products() {
                     products.map(item => (
                         <section className='mt-2'>
                             <figure>
-                                <img src='/products/apple.jpg' alt='apple juice'/>
+                                <img src={`/allproducts/${item.img_link}`} alt={`${item.img_link}`}/>
                             </figure>
                             <div className='flex align-items-center prices'>
                                 <h6>Normal Price:</h6>
