@@ -746,10 +746,6 @@ figure.snip1192 .author h5 span {
 .store-article-group .stores-article img{
   border-radius: 0.4rem;
 }
-.store-article-group .stores-article:nth-child(3) .stores-figure img{
-  height: 12rem;
-  object-fit: cover;
-}
 .stores-article .partners figure:nth-child(1){ 
   width: 9rem;
 }
@@ -821,6 +817,10 @@ figure.snip1192 .author h5 span {
 }
 .flex-wrap{
   flex-wrap: wrap
+}
+.store-article-group .stores-article .disabled{
+  filter: grayscale(30%);
+  cursor: no-drop;
 }
 /* media queries */
 
@@ -968,11 +968,6 @@ figure.snip1192 .author h5 span {
   .store-article-group{
     flex-direction: column;
   }
-  .store-article-group .stores-article:nth-child(3) .stores-figure img{
-    height: 100rem;
-    object-fit: cover;
-    width: 1000px;
-  }
   .description-container{
     margin-bottom: 5rem;
   }
@@ -1003,9 +998,6 @@ figure.snip1192 .author h5 span {
   .home-hero-right {
     width: 80%;
   }
-  .store-article-group .stores-article:nth-child(3) .stores-figure img{
-    width: 780px;
-  }
 }
 @media only screen and (max-width:920px){
   .container{
@@ -1023,9 +1015,6 @@ figure.snip1192 .author h5 span {
   .home-hero-left .home-hero-paragraph{
     font-size: 12px;
   }
-  .store-article-group .stores-article:nth-child(3) .stores-figure img{
-    width: 680px;
-  }
 }
 @media only screen and (max-width:760px){
   .container{
@@ -1036,9 +1025,6 @@ figure.snip1192 .author h5 span {
   }
   .home-hero-left .home-hero-paragraph{
     font-size: 12px;
-  }
-  .store-article-group .stores-article:nth-child(3) .stores-figure img{
-    width: 580px;
   }
 }
 @media screen and (max-width:540px){
@@ -1066,9 +1052,6 @@ figure.snip1192 .author h5 span {
   .home-hero-right figure{
     width: 45rem;
   }
-  .store-article-group .stores-article:nth-child(3) .stores-figure img{
-    width: 400px;
-  }
 }
 @media only screen and (max-width:440px){
   .container{
@@ -1082,9 +1065,6 @@ figure.snip1192 .author h5 span {
   }
   .hero-section{
     height: 60rem;
-  }
-  .store-article-group .stores-article:nth-child(3) .stores-figure img{
-    width: 360px;
   }
 }
 @media only screen and (max-width:360px){
@@ -1103,9 +1083,6 @@ figure.snip1192 .author h5 span {
   .hero-section{
     height: 60rem;
   }
-  .store-article-group .stores-article:nth-child(3) .stores-figure img{
-    width: 280px;
-  }
 }
 @media only screen and (max-width:320px){
 
@@ -1117,8 +1094,5 @@ figure.snip1192 .author h5 span {
   }
   .home-hero-left .home-hero-paragraph{
     font-size: 8px;
-  }
-  .store-article-group .stores-article:nth-child(3) .stores-figure img{
-    width: 240px;
   }
 }
